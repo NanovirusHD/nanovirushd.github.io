@@ -20,8 +20,3 @@ body {
 	background-color: #dddddd;
 	color: black;
 }
-
-.nav a.active {
-	background-color: #dd0000;
-	color: white;
-}
