@@ -1,0 +1,28 @@
+body {
+	margin: 0;
+	font-family: Arial, Verdana, sans-serif;
+}
+
+.nav {
+	overflow: hidden;
+	background-color: #333333;
+}
+
+.nav a {
+	float: left;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 15px;
+}
+
+.nav a:hover {
+	background-color: #dddddd;
+	color: black;
+}
+
+.nav a.active {
+	background-color: #dd0000;
+	color: white;
+}
