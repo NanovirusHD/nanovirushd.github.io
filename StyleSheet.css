@@ -21,3 +21,10 @@ body {
 	background-color: #dd0000;
 	color: white;
 }
+
+.mid-center {
+    position: fixed;
+    top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
